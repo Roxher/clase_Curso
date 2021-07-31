@@ -213,7 +213,7 @@ public class gui_curso extends JDialog implements ActionListener, MouseListener,
 	}
 	
 	
-	
+	//lcek
 	protected void actionPerformedBtnAdicionar(ActionEvent arg0) {
 		/**
 		 * Adiciona un nuevo curso validando que el código no se repita
