@@ -1,0 +1,6 @@
+5001;20;2;Ingles;1
+5002;30;2;Matematica II;1
+5003;20;2;Arquitectura de Datos;1
+5004;20;2;Desarrollo de habilidades profesionales I;1
+5005;20;2;Base de Datos;1
+5008;20;2;Experiencias Formativas I;1
